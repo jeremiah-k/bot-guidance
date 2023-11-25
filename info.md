@@ -5,3 +5,5 @@ For nRF52 devices, the "Drag & Drop" method is easiest. Instructions are located
 Examples of ESP32 Devices are: Heltec Lora 32, Lilygo T-Beam, Lilygo Lora, Station G1, the Nano series: Nano G2 Ultra, Nano G1 Explorer, Nano G1
 
 Examples of nRF52 devices are: RAK Wisblock, Lilygo T-echo
+
+The full list of supported devices is listed [here](https://meshtastic.org/docs/supported-hardware).
