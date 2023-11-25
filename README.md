@@ -1,2 +1,2 @@
 # bot-guidance
-Repository that contains information to help guide the Meshtastic AI Chat Bot
+Repository that contains information to help guide the Meshtastic AI Chat Bot with its answers
