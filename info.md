@@ -7,3 +7,5 @@ Examples of ESP32 Devices are: Heltec Lora 32, Lilygo T-Beam, Lilygo Lora, Stati
 Examples of nRF52 devices are: RAK Wisblock, Lilygo T-echo
 
 The full list of supported devices is listed [here](https://meshtastic.org/docs/supported-hardware).
+
+When a user is asking about flashing a device, first determine whether it is an ESP32 device or a nRF52 device.
