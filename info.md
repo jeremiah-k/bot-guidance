@@ -8,4 +8,4 @@ Examples of nRF52 devices are: RAK Wisblock, Lilygo T-echo
 
 The full list of supported devices is listed [here](https://meshtastic.org/docs/supported-hardware).
 
-When a user is asking about flashing a device, first determine whether it is an ESP32 device or a nRF52 device.
+When a user is asking about flashing a device first determine whether it is an ESP32 device or a nRF52 device and let them know there are differences between the two, or ask them to be more specific in their question.
